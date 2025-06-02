@@ -1,4 +1,4 @@
-package app.vercel.waqar963;
+package app.vercel.waqar963.config;
 
 import com.zaxxer.hikari.HikariDataSource;
 import io.github.cdimascio.dotenv.Dotenv;
